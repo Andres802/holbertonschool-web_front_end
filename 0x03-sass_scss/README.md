@@ -1,7 +1,7 @@
 # 0x03. Sass & Scss
-![](https://github.com/jorgechauxjr/holbertonschool-web_front_end/blob/master/0x03-sass_scss/sass.jpg?raw=true)
+![](https://github.com/Andres802/holbertonschool-web_front_end/blob/master/0x03-sass_scss/sass.jpg?raw=true)
 ## Learning Objectives
-### General
+### General Content
 - What Sass means
 - How to write Sass & Scss file
 - What is the difference between Sass and Scss
@@ -12,4 +12,4 @@
 - How to use mixins
 - How to declare extend/inheritance styles
 - How to manipulate operators
-#### Twitter: [Jorge Chaux Jr](https://twitter.com/jorgechauxjr)
+#### Twitter: [Andres Barrera](https://twitter.com/codesectest)
