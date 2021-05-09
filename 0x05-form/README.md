@@ -8,4 +8,5 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 - How to build a a comment form
 - How to build a simple search form
 - How to create usable and accessible forms
-#### Twitter: [Andres Barrera](https://twitter.com/codesectest)
+#### Twitter: [Jorge Chaux Jr](https://twitter.com/jorgechauxjr)
+#### Medium: [Jorge Chaux Jr](https://medium.com/@jorgechauxjr)
